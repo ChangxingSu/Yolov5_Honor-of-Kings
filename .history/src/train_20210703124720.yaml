@@ -1,0 +1,6 @@
+names:
+- gun
+- sword
+nc: 2
+train: wandb-artifact://Yolo-wandb-gw-detect/train
+val: wandb-artifact://Yolo-wandb-gw-detect/val

@@ -1,0 +1,4 @@
+names: ["hero","grass","wild_monster","dragon","soldier","tower","buff","crystal"] 
+nc: 8
+train: wandb-artifact://Yolo-wandb-gw-detect/train
+val: wandb-artifact://Yolo-wandb-gw-detect/val
